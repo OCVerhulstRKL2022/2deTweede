@@ -1,1 +1,2 @@
 file in 2deTweede
+regel toegevoegd aan de file aaa.txt om te zien of het kan
